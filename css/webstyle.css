@@ -1,0 +1,99 @@
+body{
+   font-family: 'Courgette', cursive;
+    background: #636363;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #a2ab58, #636363);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #a2ab58, #636363); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    color: coral;
+    font-weight: bold;
+}
+.navbar-nav>.active>a:hover{
+    color: aliceblue;
+}
+.navbar-default .navbar-nav>li>a{
+    color: dimgray;
+}
+
+.thumbnail > img{
+    height: 300px;
+    width: 250px;
+    background-color: bisque;
+    
+}
+
+.but{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.jumbotron{
+padding-top: 10px;
+    height: 250px;
+    width: 100%;
+    background-color: bisque;
+}
+
+.jumbotron > p{
+    font-size: 20px;
+    text-align: center;
+}
+.jumbotron > h1{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.jumbo{
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 60px;
+}
+
+
+.carousel .item{
+    height: 500px;
+} 
+
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+}
+
+#example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 15px;
+}
+
+.img-circle > img{
+    height:400px ;
+    width: 100%;
+}
+.thumbnail{
+    background-color: lavender;
+}
+.fa fa-instagram{
+    height:60px;
+    width:50px;
+}  
+#symbol{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+#exe{
+    color: white !important;
+}
+
+
