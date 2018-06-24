@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  border:0;
+background-color: aliceblue;
+
+    font-family: cursive;
+    text-align: center;
+}
+
+
+
+.fm label{
+  display: inline-block;
+}
+.fm input{
+  width: 30%;
+  margin-left: 10px;
+ display: inline-block;
+}
+#link{
+margin-left: 600px;
+    color: brown;
+}
+body{
+  background-color: aliceblue;  
+}
